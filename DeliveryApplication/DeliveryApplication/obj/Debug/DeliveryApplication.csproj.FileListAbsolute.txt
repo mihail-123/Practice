@@ -1,0 +1,13 @@
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\bin\Debug\DeliveryApplication.exe.config
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\bin\Debug\DeliveryApplication.exe
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\bin\Debug\DeliveryApplication.pdb
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.csprojAssemblyReference.cache
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.Form1.resources
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.Properties.Resources.resources
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.csproj.GenerateResource.cache
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.exe
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.pdb
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.SetData.resources
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.EditData.resources
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.SortingOperations.resources
+C:\Users\shato\OneDrive\Рабочий стол\DeliveryApplication\DeliveryApplication\obj\Debug\DeliveryApplication.UserSearch.resources
